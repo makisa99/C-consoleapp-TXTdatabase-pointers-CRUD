@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\Mario\Desktop\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(60,11): warning C4047: 'return': 'Zaposleni *' differs in levels of indirection from 'int'
+C:\Users\Mario\Desktop\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(62,26): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\Mario\Desktop\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(67,16): warning C4013: 'realloc' undefined; assuming extern returning int
+C:\Users\Mario\Desktop\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(67,56): warning C4047: '=': 'Zaposleni *' differs in levels of indirection from 'int'
+C:\Users\Mario\Desktop\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(94,29): warning C4047: 'function': 'Zaposleni *' differs in levels of indirection from 'Zaposleni **'
+C:\Users\Mario\Desktop\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(94,29): warning C4024: 'uradi': different types for formal and actual parameter 2
+C:\Users\Mario\Desktop\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(109,29): warning C4047: 'function': 'Zaposleni *' differs in levels of indirection from 'Zaposleni **'
+C:\Users\Mario\Desktop\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(109,29): warning C4024: 'uradi': different types for formal and actual parameter 2
+  CS323-PZ1-Mario_Ferketic_3599.vcxproj -> C:\Users\Mario\Desktop\CS323-PZ1-Mario_Ferketic_3599\Debug\CS323-PZ1-Mario_Ferketic_3599.exe

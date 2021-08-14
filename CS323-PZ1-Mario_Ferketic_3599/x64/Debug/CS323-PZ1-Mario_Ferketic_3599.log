@@ -1,0 +1,11 @@
+﻿  main.c
+G:\Faks\2.god lekcije\Met 4. semestar\CS323\Domaci\Projekat\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(60,11): warning C4047: 'return': 'Zaposleni *' differs in levels of indirection from 'int'
+G:\Faks\2.god lekcije\Met 4. semestar\CS323\Domaci\Projekat\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(62,26): warning C4013: 'malloc' undefined; assuming extern returning int
+G:\Faks\2.god lekcije\Met 4. semestar\CS323\Domaci\Projekat\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(62,45): warning C4312: 'type cast': conversion from 'int' to 'Zaposleni *' of greater size
+G:\Faks\2.god lekcije\Met 4. semestar\CS323\Domaci\Projekat\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(67,16): warning C4013: 'realloc' undefined; assuming extern returning int
+G:\Faks\2.god lekcije\Met 4. semestar\CS323\Domaci\Projekat\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(67,56): warning C4047: '=': 'Zaposleni *' differs in levels of indirection from 'int'
+G:\Faks\2.god lekcije\Met 4. semestar\CS323\Domaci\Projekat\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(96,29): warning C4047: 'function': 'Zaposleni *' differs in levels of indirection from 'Zaposleni **'
+G:\Faks\2.god lekcije\Met 4. semestar\CS323\Domaci\Projekat\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(96,29): warning C4024: 'uradi': different types for formal and actual parameter 2
+G:\Faks\2.god lekcije\Met 4. semestar\CS323\Domaci\Projekat\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(111,29): warning C4047: 'function': 'Zaposleni *' differs in levels of indirection from 'Zaposleni **'
+G:\Faks\2.god lekcije\Met 4. semestar\CS323\Domaci\Projekat\CS323-PZ1-Mario_Ferketic_3599\CS323-PZ1-Mario_Ferketic_3599\main.c(111,29): warning C4024: 'uradi': different types for formal and actual parameter 2
+  CS323-PZ1-Mario_Ferketic_3599.vcxproj -> G:\Faks\2.god lekcije\Met 4. semestar\CS323\Domaci\Projekat\CS323-PZ1-Mario_Ferketic_3599\x64\Debug\CS323-PZ1-Mario_Ferketic_3599.exe
